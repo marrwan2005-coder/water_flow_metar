@@ -149,6 +149,8 @@ A typical live reading updates once per second, e.g. `Flow: 720.00 L/h` /
 
 ## Build & assembly notes
 
+<img width="1536" height="1024" alt="Codex Image Aug 22, 2026, 09_45_34 AM" src="https://github.com/user-attachments/assets/a1c0df27-6a2e-42ba-ba4d-56129c3f5980" />
+
 ![Serial I²C LCD board](images/i2c_lcd_board.png)
 
 *The Serial I²C LCD board: the PCF8574 backpack soldered onto the 16×2 LCD,
