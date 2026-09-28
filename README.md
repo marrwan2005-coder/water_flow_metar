@@ -1,7 +1,8 @@
 # Water Flow Meter
 <img width="1402" alt="Water flow meter — assembled device" src="https://github.com/user-attachments/assets/cd77cf79-bf4e-4dab-b92c-45fb7a600d9d" />
 
-<img width="1402" alt="Water flow meter — close-up of the build" src="https://github.com/user-attachments/assets/6c897f1e-5253-4116-86f7-ff078554d21a" />
+<img width="1402" height="1122" alt="ChatGPT Image Sep 29, 2026, 12_22_39 AM" src="https://github.com/user-attachments/assets/28b3a188-30a4-44f1-b1ec-e51522a0e9cc" />
+
 
 
 **Arduino-based real-time flow-rate & volume measurement** using a **YF-S201**
